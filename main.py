@@ -1,4 +1,6 @@
 name = input()
 student_number = input()
+major = input()
 print(name)
 print(student_number)
+print(major)
